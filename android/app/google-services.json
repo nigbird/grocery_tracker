@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847868114219",
+    "project_id": "mygrocerytrackerapp",
+    "storage_bucket": "mygrocerytrackerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847868114219:android:106d2f24722e691179816e",
+        "android_client_info": {
+          "package_name": "com.nuha.grocery_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDcMF1K8ym3jkXfSt9ao-Utx9zTgcAa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
