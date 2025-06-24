@@ -14,6 +14,7 @@ void main() async {
 
   // Open box
   await Hive.openBox<Expense>('expenses');
+  await Hive.openBox('budget');
 
   runApp(const MyApp());
 }
